@@ -1,41 +1,36 @@
 <!DOCTYPE html>
-<!-- saved from url=(0035)http://colloquial.herokuapp.com/vis -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8">
-<title>AuthzMap</title>
-<style>
-
-@import url(style.css);
-@import url(app.css);
-
-</style>
-
-<script src="d3.v3.min.js"></script>
-
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8">
+  <title>AuthzMap</title>
+  <style>
+    @import url(css/style.css);
+    @import url(css/app.css);
+  </style>
 </head>
+
 <body>
   <header>
   </header>
-
   <h1>AuthzMap</h1>
-
   <aside style="margin-top:80px;">
-  <p>Order Users: <select id="order-users">
-    <option value="uname1">by Name (Asc)</option>
-    <option value="uname2">by Name (Dsc)</option>
-    <option value="job">by Job</option>
-  </select></p>
+    <p>Order Users: <select id="order-users">
+      <option value="uname1">by Name (Asc)</option>
+      <option value="uname2">by Name (Dsc)</option>
+      <option value="job">by Job</option>
+    </select></p>
 
 
-  <p>Order Roles: <select id="order-roles">
-    <option value="rname1">by User Size (Asc)</option>
-    <option value="rname2">by User Size (Dsc)</option>
-  </select></p>
-  <p><button id="activate_brush"> Activate Brush </button></p>
+    <p>Order Roles: <select id="order-roles">
+      <option value="rname1">by User Size (Asc)</option>
+      <option value="rname2">by User Size (Dsc)</option>
+    </select></p>
+    <p><button id="activate_brush"> Activate Brush </button></p>
+    </p>
+  </aside>
 
+  <script src="d3.v3.min.js"></script>
+  <script src="js/authzmap.js"></script>
 
-  </p>
-</aside>
-
-
-<script src="authzmap.js"></script>
-</body></html>
+</body>
+</html>
