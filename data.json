@@ -1,0 +1,334 @@
+{
+   "users":[
+      {
+         "index": 3, 
+         "name":"Allen Bishop",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 2,
+         "name":"Darla Summers",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 1,
+         "name":"Dewey Guerrero",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 4,
+         "name":"Connor David",
+         "job":"Sales",
+         "group":1
+      },
+      {
+         "index": 5,
+         "name":"Francisco Lee",
+         "job":"Sales",
+         "group":1
+      },
+      {
+         "index": 6,
+         "name":"Zachary Carter",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 7,
+         "name":"Clay Warren",
+         "job":"Clerk",
+         "group":1
+      },
+      {
+         "index": 8,
+         "name":"Margaret Estrada",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 9,
+         "name":"Jenna Cooper",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 10,
+         "name":"Curtis Padilla",
+         "job":"Manager",
+         "group":1
+      },
+      {
+         "index": 11,
+         "name":"Mason Booth",
+         "job":"Clerk",
+         "group":1
+      },
+      {
+         "index": 12,
+         "name":"Darcy Muler",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 13,
+         "name":"Tray Took",
+         "job":"Clerk",
+         "group":1
+      },
+      {
+         "index": 14,
+         "name":"Meghan Fich",
+         "job":"Engineer",
+         "group":1
+      },
+      {
+         "index": 15,
+         "name":"James Harfield",
+         "job":"Engineer",
+         "group":1
+      }
+   ],
+   "roles":[
+      {
+         "index":1,
+         "name":"R01",
+         "group":1
+      },
+      {
+         "index":2,
+         "name":"R02",
+         "group":1
+      },
+      {
+         "index":3,
+         "name":"R03",
+         "group":1
+      },
+      {
+         "index":4,
+         "name":"R04",
+         "group":1
+      },
+      {
+         "index":5,
+         "name":"R05",
+         "group":1
+      },
+      {
+         "index":6,
+         "name":"R06",
+         "group":1
+      },
+      {
+         "index":7,
+         "name":"R07",
+         "group":1
+      },
+      {
+         "index":8,
+         "name":"R08",
+         "group":1
+      },
+      {
+         "index":9,
+         "name":"R09",
+         "group":1
+      },
+      {
+         "index":10,
+         "name":"R10",
+         "group":1
+      },
+      {
+         "index":11,
+         "name":"R11",
+         "group":1
+      },
+      {
+         "index":12,
+         "name":"R12",
+         "group":1
+      },
+      {
+         "index":13,
+         "name":"R13",
+         "group":1
+      },
+      {
+         "index":14,
+         "name":"R14",
+         "group":1
+      },
+      {
+         "index":15,
+         "name":"R15",
+         "group":1
+      }
+   ],
+   "assignments":[
+      {
+         "source":0,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":0,
+         "target":1,
+         "value":1
+      },
+      {
+         "source":0,
+         "target":2,
+         "value":1
+      },
+      {
+         "source":0,
+         "target":3,
+         "value":1
+      },
+      {
+         "source":0,
+         "target":4,
+         "value":1
+      },
+      {
+         "source":0,
+         "target":8,
+         "value":1
+      },
+
+      {
+         "source":1,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":1,
+         "target":1,
+         "value":1
+      },
+      {
+         "source":1,
+         "target":2,
+         "value":1
+      },
+      {
+         "source":1,
+         "target":3,
+         "value":1
+      },
+      {
+         "source":1,
+         "target":4,
+         "value":1
+      },
+      {
+         "source":1,
+         "target":8,
+         "value":1
+      },
+      {
+         "source":2,
+         "target":0,
+         "value":8
+      },
+      {
+         "source":3,
+         "target":0,
+         "value":10
+      },
+      {
+         "source":3,
+         "target":2,
+         "value":6
+      },
+      {
+         "source":4,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":5,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":6,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":7,
+         "target":0,
+         "value":1
+      },
+      {
+         "source":8,
+         "target":0,
+         "value":2
+      },
+      {
+         "source":9,
+         "target":0,
+         "value":1
+      }, 
+      {
+         "source":10,
+         "target":1,
+         "value":1
+      },
+      {
+         "source":14,
+         "target":11,
+         "value":1
+      }, 
+      {
+         "source":14,
+         "target":2,
+         "value":1
+      }, 
+      {
+         "source":13,
+         "target":13,
+         "value":1
+      }, 
+      {
+         "source":11,
+         "target":14,
+         "value":1
+      }, 
+      {
+         "source":13,
+         "target":8,
+         "value":1
+      }, 
+      {
+         "source":14,
+         "target":3,
+         "value":1
+      }, 
+      {
+         "source":2,
+         "target":14,
+         "value":1
+      }, 
+      {
+         "source":12,
+         "target":13,
+         "value":1
+      }, 
+      {
+         "source":10,
+         "target":12,
+         "value":1
+      }, 
+      {
+         "source":13,
+         "target":14,
+         "value":1
+      } 
+   ]
+}
